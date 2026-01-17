@@ -1,0 +1,2 @@
+# FocusFlow
+A gamified, Duolingo-inspired productivity app that helps students overcome procrastination by breaking big tasks into tiny, manageable steps with XP, streaks, and fun celebrations
